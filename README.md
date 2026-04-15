@@ -1,0 +1,2 @@
+# FireRules.github.io
+whatever
